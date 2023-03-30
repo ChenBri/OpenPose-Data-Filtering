@@ -32,6 +32,7 @@ Filtered:
 |1301.34|503.738|0.878067|1230.83|506.781|0.888902|1166.1 |506.646|0.822996|1089.45|621.501|0.894637|1166.01|709.805|0.870204|
 
  
- 
+![Nose movement visualization](Nose_compare_rawdata.jpg)
+
 ![BODY_25 Image](keypoints_pose_25.png)
 
