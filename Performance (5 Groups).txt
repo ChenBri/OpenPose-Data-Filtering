@@ -1,0 +1,5 @@
+1008 - Normal
+1010 - Normal
+1011 - High
+1012 - Low
+1023 - High
